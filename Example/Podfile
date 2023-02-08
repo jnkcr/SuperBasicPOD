@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SuperBasicPOD_Example' do
+  pod 'SuperBasicPOD', :path => '../'
+
+  target 'SuperBasicPOD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
