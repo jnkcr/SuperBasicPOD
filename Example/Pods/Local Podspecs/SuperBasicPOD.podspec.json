@@ -1,0 +1,22 @@
+{
+  "name": "SuperBasicPOD",
+  "version": "0.1.0",
+  "summary": "A short description of SuperBasicPOD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jan Kučera/SuperBasicPOD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jan Kučera": "kucera.jan@hotmail.cz"
+  },
+  "source": {
+    "git": "https://github.com/Jan Kučera/SuperBasicPOD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SuperBasicPOD/Classes/**/*"
+}

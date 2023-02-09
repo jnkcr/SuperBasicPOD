@@ -1,0 +1,6 @@
+framework module Pods_SuperBasicPOD_Tests {
+  umbrella header "Pods-SuperBasicPOD_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

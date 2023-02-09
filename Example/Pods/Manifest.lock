@@ -1,0 +1,16 @@
+PODS:
+  - SuperBasicPOD (0.1.0)
+
+DEPENDENCIES:
+  - SuperBasicPOD (from `../`)
+
+EXTERNAL SOURCES:
+  SuperBasicPOD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SuperBasicPOD: f59be72edd77bd30edcae5190f860d9290931875
+
+PODFILE CHECKSUM: b5993b7a74a831b1817cdf8be64fa55b4d830ae4
+
+COCOAPODS: 1.11.3

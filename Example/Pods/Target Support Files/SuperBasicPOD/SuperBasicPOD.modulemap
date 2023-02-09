@@ -1,0 +1,6 @@
+framework module SuperBasicPOD {
+  umbrella header "SuperBasicPOD-umbrella.h"
+
+  export *
+  module * { export * }
+}
